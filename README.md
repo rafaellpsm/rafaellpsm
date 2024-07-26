@@ -36,4 +36,4 @@ Aqui estão alguns dos meus projetos favoritos:
 - 🎮 Jogar videogames
 - 📖 Ler livros de tecnologia e ficção
 
-![Coding](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+![Coding]([https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif?cid=790b7611t13as2l8oo9ga0tabwivj3l2e9zkcx2qcdwvrkd1&ep=v1_gifs_search&rid=giphy.gif&ct=g))
