@@ -2,8 +2,6 @@
 
 ![Developer](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-Desenvolvedor Front-End 
-
 ### 🛠️ Tecnologias e Ferramentas
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -22,6 +20,8 @@ Desenvolvedor Front-End
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+---
+
 ### 👨🏼‍🎓 Sobre Mim
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas na FIAP
@@ -37,8 +37,11 @@ Desenvolvedor Front-End
 
 Aqui estão alguns dos meus projetos favoritos:
 
-- **[Projeto 1](https://github.com/Rafaelz7/automacao_ijj-ietech)**: Este projeto implementa uma automação completa de um fluxo de e-commerce utilizando Python e Behave para testes de BDD.
-- **[Projeto 2](https://github.com/Rafaelz7/Chalange_fiap_FreeFlow)**: Este projeto foi desenvolvido em parceria com a FREE FLOW como parte do curso de Análise e Desenvolvimento de Sistemas na FIAP. O objetivo do projeto é criar um site para monitoramento, utilizando tecnologias web essenciais: HTML, CSS e JavaScript.
+#### **[Projeto 1](https://github.com/Rafaelz7/automacao_ijj-ietech)**:
+- Este projeto implementa uma automação completa de um fluxo de e-commerce utilizando Python e Behave para testes de BDD.
+
+#### **[Projeto 2](https://github.com/Rafaelz7/Chalange_fiap_FreeFlow)**:
+- Este projeto foi desenvolvido em parceria com a FREE FLOW como parte do curso de Análise e Desenvolvimento de Sistemas na FIAP. O objetivo do projeto é criar um site para monitoramento, utilizando tecnologias web essenciais: HTML, CSS e JavaScript.
 
 ### 🎨 Hobbies
 
