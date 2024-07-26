@@ -37,12 +37,12 @@ Desenvolvedor Front-End
 
 Aqui estão alguns dos meus projetos favoritos:
 
-- **[Projeto 1](https://github.com/seu-usuario/projeto1)**: Uma breve descrição do projeto 1.
-- **[Projeto 2](https://github.com/seu-usuario/projeto2)**: Uma breve descrição do projeto 2.
+- **[Projeto 1](https://github.com/Rafaelz7/automacao_ijj-ietech)**: Este projeto implementa uma automação completa de um fluxo de e-commerce utilizando Python e Behave para testes de BDD.
+- **[Projeto 2](https://github.com/Rafaelz7/Chalange_fiap_FreeFlow)**: Este projeto foi desenvolvido em parceria com a FREE FLOW como parte do curso de Análise e Desenvolvimento de Sistemas na FIAP. O objetivo do projeto é criar um site para monitoramento, utilizando tecnologias web essenciais: HTML, CSS e JavaScript.
 
 ### 🎨 Hobbies
 
-- 🚴 Andar de bicicleta
+- ⚽ Futzin
 - 🎮 Jogar videogames
 - 📖 Ler livros
 
