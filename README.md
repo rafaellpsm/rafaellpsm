@@ -20,8 +20,8 @@ Sou um desenvolvedor Front-End apaixonado por criar experiências web incríveis
 
 ### 🌐 Conecte-se Comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/seu-perfil]([https://www.linkedin.com/in/rafael-pincinato-siegrist-mar%C3%A7al-a19246276?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/rafael-pincinato-siegrist-mar%C3%A7al-a19246276))
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/seu-usuario](https://github.com/Rafaelz7))
 
 ### 🏗️ Projetos
 
