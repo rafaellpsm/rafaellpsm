@@ -1,8 +1,8 @@
-# 👋 Olá! Eu sou [Rafael]
+# 👋 Olá! Eu sou Rafael Marçal
 
 ![Developer](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-Sou um desenvolvedor Front-End apaixonado por criar experiências web incríveis. 
+Desenvolvedor Front-End 
 
 ### 🛠️ Tecnologias e Ferramentas
 
