@@ -35,7 +35,7 @@
 
 ### 🏗️ Projetos
 
-Aqui estão alguns dos meus projetos favoritos:
+#### Aqui estão alguns dos meus projetos favoritos:
 
 #### **[Projeto 1](https://github.com/Rafaelz7/automacao_ijj-ietech)**:
 - Este projeto implementa uma automação completa de um fluxo de e-commerce utilizando Python e Behave para testes de BDD.
