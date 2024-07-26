@@ -49,5 +49,4 @@
 - 🎮 Jogar videogames
 - 📖 Ler livros
 
-
-![Dragon Ball Coding](https://media.giphy.com/media/DzeKll1HYxiYo/giphy.gif?cid=ecf05e47sqqigl3dsk89pzpk6p3dxeh0t712l0nsfmwv8vli&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+---
