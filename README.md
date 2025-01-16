@@ -2,38 +2,10 @@
 
 ---
 
-## 🌟 About Me
-
 - 🎓 **Systems Analysis and Development Student** at FIAP
 - 🏆 **Certified QA Specialist** (Advanced QA Course)
 - 🏅 **NEXT Challenge Champion** in partnership with TECSIDEL FREEFLOW
 - 🌱 Always curious and passionate about learning new technologies and enhancing my skills.
-
----
-
-## 🛠️ Technologies and Tools
-
-### **Main Expertise**
-
-
-
-
-
-### **Currently Studying**
-
-
-
-
-
-### **Familiar With**
-
-
-
----
-
-## 🌐 Connect With Me
-
-
 
 ---
 
@@ -57,11 +29,10 @@
 
 ---
 
-## 🎨 Hobbies and Interests
+## Hobbies and Interests
 
 - 🙏 Serving and honoring YHWH
 - 📖 Studying scripture and spiritual growth
 - 🌟 Always seeking to align with my faith and values
 
 ---
-
