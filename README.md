@@ -1,5 +1,3 @@
-# I'm Rafael Marçal
-
 ![Developer](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG8yZTlvdGlybnRnYWIwMXRwaDF6ejQ5ZXR0MDRjZDFsdGFnYTU4YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/11KzOet1ElBDz2/giphy.gif)
 
 ---
