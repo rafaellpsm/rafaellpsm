@@ -1,11 +1,31 @@
 ![Developer](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG8yZTlvdGlybnRnYWIwMXRwaDF6ejQ5ZXR0MDRjZDFsdGFnYTU4YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/11KzOet1ElBDz2/giphy.gif)
 
+### 💻 **Web Developer | Software Engineer**
+
 ---
 
 - 🎓 **Systems Analysis and Development Student** at FIAP
 - 🏆 **Certified QA Specialist** (Advanced QA Course)
 - 🏅 **NEXT Challenge Champion** in partnership with TECSIDEL FREEFLOW
 - 🌱 Always curious and passionate about learning new technologies and enhancing my skills.
+
+---
+
+## 🛠️ Tech Stack
+
+### **Languages & Frameworks:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### **Tools & Platforms:**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ---
 
@@ -36,3 +56,9 @@
 - 🌟 Always seeking to align with my faith and values
 
 ---
+
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rafaelpsm-ywhw)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafaellpsm)
+
+
