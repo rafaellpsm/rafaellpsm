@@ -1,7 +1,5 @@
 ![Developer](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG8yZTlvdGlybnRnYWIwMXRwaDF6ejQ5ZXR0MDRjZDFsdGFnYTU4YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/11KzOet1ElBDz2/giphy.gif)
 
-### 💻 **Web Developer | Software Engineer**
-
 ---
 
 - 🎓 **Systems Analysis and Development Student** at FIAP
@@ -10,8 +8,6 @@
 - 🌱 Always curious and passionate about learning new technologies and enhancing my skills.
 
 ---
-
-## 🛠️ Tech Stack
 
 ### **Languages & Frameworks:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
