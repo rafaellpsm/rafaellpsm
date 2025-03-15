@@ -11,7 +11,7 @@
 
 ## 🏗️ Noteworthy Projects
 
-### **[Painel integrado com Tabela Google](https://github.com/rafaellpsm/googlesheets-py_vue)**
+### **[Google Sheets Panel](https://github.com/rafaellpsm/googlesheets-py_vue)**
 
 - is an interactive system built with Python (FastAPI) and Vue.js, integrating data from a Google Sheets spreadsheet for display in a dynamic panel, featuring automatic updates, access control, and an organized Kanban-style view.
 
