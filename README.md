@@ -11,9 +11,9 @@
 
 ## 🏗️ Noteworthy Projects
 
-### **[PRISMA Edtech App](https://youtu.be/OkSlSSr3jMI)**
+### **[Painel integrado com Tabela Google]([https://youtu.be/OkSlSSr3jMI](https://github.com/rafaellpsm/googlesheets-py_vue))**
 
-- Developed an app to foster resilience and intelligence through academic programs, implementing multifaceted tools.
+- is an interactive system built with Python (FastAPI) and Vue.js, integrating data from a Google Sheets spreadsheet for display in a dynamic panel, featuring automatic updates, access control, and an organized Kanban-style view.
 
 ### **[QUOD Anti-Fraud Demo App](https://youtu.be/oL5os4BxXFA)**
 
