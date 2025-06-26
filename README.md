@@ -1,7 +1,4 @@
-![Developer](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG8yZTlvdGlybnRnYWIwMXRwaDF6ejQ5ZXR0MDRjZDFsdGFnYTU4YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/11KzOet1ElBDz2/giphy.gif)
-
-
-- 🎓 **Systems Analysis and Development Student** at FIAP
+- 🎓 **Systems Analysis and Development** at FIAP
 - 🏆 **Certified QA Specialist** (Advanced QA Course)
 - 🏅 **NEXT Challenge Champion** in partnership with TECSIDEL FREEFLOW
 - 🌱 Always curious and passionate about learning new technologies and enhancing my skills.
